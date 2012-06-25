@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+module MusicGlue
+module UserApp
+module Events
+  class ${1:name} < Euston::Event
+    version 1 do
+      ${0}
+    end
+  end
+end
+end
+end
+]]></content>
+  <tabTrigger>eue</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

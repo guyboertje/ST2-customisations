@@ -1,0 +1,7 @@
+[
+  { "keys": ["ctrl+shift+g"], "command": "find_all_under" },
+  { "keys": ["ctrl+shift+`"], "command": "insert_snippet", "args": {"name": "Packages/User/euston-v2-ver1.sublime-snippet"} },
+  { "keys": ["ctrl+alt+r"], "command": "set_file_type", "args":{ "syntax" : "Packages/Ruby/Ruby.tmLanguage" } },
+  { "keys": ["ctrl+alt+j"], "command": "move_text_left" },
+  { "keys": ["ctrl+alt+k"], "command": "move_text_right" }
+]

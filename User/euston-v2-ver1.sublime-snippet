@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+version 1 do
+${0:$SELECTION}
+end
+]]></content>
+  <tabTrigger>ver1</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

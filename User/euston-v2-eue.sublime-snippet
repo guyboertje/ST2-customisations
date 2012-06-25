@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+module MusicGlue
+module UserApp
+module Commands
+  class ${1:name} < Euston::Command
+    version 1 do
+      ${0}
+    end
+  end
+end
+end
+end
+]]></content>
+  <tabTrigger>euc</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>
